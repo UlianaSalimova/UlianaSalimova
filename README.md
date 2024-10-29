@@ -13,7 +13,7 @@
 
 <p align="center">
   <img width="56.25%" src="https://github-readme-stats.vercel.app/api?username=UlianaSalimova&count_private=true&show_icons=true&theme=tokyonight" alt="User stats" />
-  <img width="42.75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UlianaSalimova&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img width="42.75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UlianaSalimova&layout=compact&theme=default" alt="Top languages" />
 </p>
 
 <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
