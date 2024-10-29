@@ -1,18 +1,18 @@
 <p align="center">
   <a href="https://github.com/Jurredr/github-widgetbox">
-    <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=UlianaSalimova&data=followers,repositories,stars,commits&theme=dev" alt="GitHub WidgetBox" />
+    <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=UlianaSalimova&data=followers,repositories,stars,commits&theme=default" alt="GitHub WidgetBox" />
   </a>
   <a href="https://github.com/Jurredr/github-widgetbox">
-    <img width="45%" src="https://github-widgetbox.vercel.app/api/skills?tools=git,apache,jupyter&includeNames=true&theme=dev" alt="GitHub WidgetBox" />
-    <img width="54%" src="https://github-widgetbox.vercel.app/api/skills?names=python,R,cpp,mysql&includeNames=true&theme=dev" alt="GitHub WidgetBox" />
-    <img width="54%" src="https://github-widgetbox.vercel.app/api/skills?libraries=tensorflow&includeNames=true&theme=dev" alt="GitHub WidgetBox" />
+    <img width="32%" src="https://github-widgetbox.vercel.app/api/skills?tools=git,apache,jupyter&includeNames=true&theme=default" alt="GitHub WidgetBox" />
+    <img width="32%" src="https://github-widgetbox.vercel.app/api/skills?names=python,R,cpp,mysql&includeNames=true&theme=default" alt="GitHub WidgetBox" />
+    <img width="32%" src="https://github-widgetbox.vercel.app/api/skills?libraries=tensorflow&includeNames=true&theme=default" alt="GitHub WidgetBox" />
   </a>
 </p>
 
 <hr>
 
 <p align="center">
-  <img width="56.25%" src="https://github-readme-stats.vercel.app/api?username=UlianaSalimova&count_private=true&show_icons=true&theme=tokyonight" alt="User stats" />
+  <img width="56.25%" src="https://github-readme-stats.vercel.app/api?username=UlianaSalimova&count_private=true&show_icons=true&theme=default" alt="User stats" />
   <img width="42.75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UlianaSalimova&layout=compact&theme=default" alt="Top languages" />
 </p>
 
